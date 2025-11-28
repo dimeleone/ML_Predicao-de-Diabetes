@@ -1,4 +1,4 @@
-# 🩺 Predição Preventiva de Diabetes com Machine Learning
+# 🩺 Predição Preventiva de Diabetes com ML
 
 Modelo de Machine Learning para **triagem preventiva de diabetes** utilizando apenas dados demográficos, antropométricos e de estilo de vida — sem necessidade de exames de sangue.
 
@@ -49,7 +49,7 @@ pip --version
 
 ### Passo 2: Navegar até a Pasta do Projeto
 ```powershell
-cd "c:\Users\gabri\Downloads\Dimitri"
+cd "C:\Users\Dimitri\Desktop\Projeto"
 ```
 
 ### Passo 3: Instalar Dependências
@@ -88,7 +88,7 @@ jupyter lab
 ## 📁 Estrutura do Projeto
 
 ```
-Dimitri/
+C:\Users\Dimitri\Desktop\Projeto\
 ├── projeto.ipynb          # Notebook principal com todo o código
 ├── diabetes_dataset.csv   # Dataset com 10.000 registros
 ├── requirements.txt       # Dependências do projeto

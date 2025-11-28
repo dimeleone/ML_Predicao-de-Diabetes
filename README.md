@@ -57,7 +57,7 @@ cd "C:\Users\Dimitri\Desktop\Projeto"
 pip install -r requirements.txt
 ```
 
-**Ou instale manualmente:**
+Ou instale manualmente:
 ```powershell
 pip install pandas numpy matplotlib seaborn scikit-learn jupyter ipykernel
 ```
